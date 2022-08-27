@@ -58,6 +58,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AFxSU/FilterMia)
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </p>
 </details>
 
